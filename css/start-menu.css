@@ -167,7 +167,6 @@
 /* ==== RIGHT START MENU ===== */
 .right-start-menu {
     padding: 15px;
-    width: 400px;
     height: 100%;
     overflow: auto;
     position: fixed;
